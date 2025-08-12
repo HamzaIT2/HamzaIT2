@@ -13,7 +13,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:hmzhkymr4@gmail.com)
 
 
-[![telegram badge](https://img.shields.io/badge/Hamza-IT?style=flat&logo=telegram)]() <br>
+[![telegram badge](https://img.shields.io/badge/Hamza-IT?style=flat&logo=telegram)](https://t.me/Hamza_IT) <br>
 </div>
 
 <hr>
